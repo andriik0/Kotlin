@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Exception message/Smart_Calculator.Problems-Exception_message.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Exception message/Smart_Calculator.Problems-Exception_message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Exception message/Smart_Calculator.Problems-Exception_message.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Exception message/Smart_Calculator.Problems-Exception_message.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Exception message/Smart_Calculator.Problems-Exception_message.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Exception message/Smart_Calculator.Problems-Exception_message.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Smart_Calculator.Problems-Handle_number_format_exception.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Smart_Calculator.Problems-Handle_number_format_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Smart_Calculator.Problems-Handle_number_format_exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Smart_Calculator.Problems-Handle_number_format_exception.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Smart_Calculator.Problems-Handle_number_format_exception.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handle number format exception/Smart_Calculator.Problems-Handle_number_format_exception.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart Calculator/task/Smart_Calculator.Smart_Calculator-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Smart_Calculator.util.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun parseCardNumber(cardNumber: String): Long {
+        // TODO
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7607#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 26 Jan 2021 13:45:04 UTC
+record: -1

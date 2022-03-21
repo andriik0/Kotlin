@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Seam_Carving.Problems-Fabric_manufacture.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Seam_Carving.Problems-Fabric_manufacture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Seam_Carving.Problems-Fabric_manufacture.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Seam_Carving.Problems-Fabric_manufacture.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Seam_Carving.Problems-Fabric_manufacture.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Seam_Carving.Problems-Fabric_manufacture.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Seam_Carving.Problems-Fourth_root.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Seam_Carving.Problems-Fourth_root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Seam_Carving.Problems-Fourth_root.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Seam_Carving.Problems-Fourth_root.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Seam_Carving.Problems-Fourth_root.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Seam_Carving.Problems-Fourth_root.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.test.iml" />
+    </modules>
+  </component>
+</project>
